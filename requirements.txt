@@ -1,6 +1,6 @@
 streamlit
 yfinance>=0.2.40
-tensorflow
+tensorflow-cpu
 scikit-learn
 pandas
 numpy
